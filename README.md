@@ -1,5 +1,7 @@
 # Portfolio_DS
-## 
+A collection projects spanning various domains within ML and DS, including e-Com product matching data pipelines and modeling, graph node embedding techniques, adversarial attack implementations on voice recognition networks, computer vision for weapon detection in images with markup, and exploration of text/image analysis methods like polygonal marking and accuracy assessment, utilizing libraries such as CatBoost, scikit-learn, PyTorch, TensorFlow, NumPy, pandas, NLTK, SpaCy, NetworkX, and Gensim.
+
+## Here are completed DS projects 
 ___
 | #| name of project| description| stack| language|
 |---|---------------|------------|------|---------|
